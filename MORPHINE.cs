@@ -1,27 +1,5 @@
-﻿/* 
-TITS License
-
-Copyright (o)(o) 2021 GOD
-
-Credits (* = number of weeks I have tornmented that individual - # = stole / manipulated / inspired by code)
-Project Canyon#
-AcidBubbles**********#
-Jajaywon********#
-MacGruber*******#
-CaptainVarghoss**
-Amaimon****
-Hazmhox**#
-Wolf***
-
-Changelog:
-
-V1:
-Revolutionized VAM phase 1 complete.
-*/
-
 using System;
 using System.Net;
-
 using System.Security.Policy;
 using System.Collections;
 using System.Collections.Generic;
